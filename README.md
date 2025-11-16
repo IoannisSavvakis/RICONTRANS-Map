@@ -1,2 +1,2 @@
 # RICONTRANS-Map
-Web Map App Visualizing RICONTRANS Project's Data
+Web Map Application that visualizes RICONTRANS project's data.
