@@ -1,5 +1,5 @@
 # RICONTRANS Map v0.1.0
-A web map application that visualizes RICONTRANS project's data.
+A web map application that visualizes [RICONTRANS](https://ricontrans-project.eu/) project's data.
 
 <br>
 
